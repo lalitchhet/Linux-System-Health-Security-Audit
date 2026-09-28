@@ -36,7 +36,7 @@ The first script, `system_info.sh`, collects:
 
 ### Example
 
-![System Information Output](screenshots/01-system-info-output.png)
+![System Information Output](screenshots/system-info-output.png)
 
 ## Repository Structure
 
